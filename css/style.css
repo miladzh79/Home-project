@@ -1,14 +1,14 @@
 @font-face {
-   font-family: 'BYekan';
-   src: url("../fonts/BYekan.eot")
+   font-family: 'Btitr';
+   src: url("../font/Btitr.eot")
 }
 @font-face {
-   font-family: 'BYekan';
-   src: url("../fonts/BYekan.ttf")
+   font-family: 'Btitr';
+   src: url("../font/Btitr.ttf")
 }
 @font-face {
-   font-family: 'BYekan';
-   src: url("../fonts/BYekan.woff")
+   font-family: 'Btitr';
+   src: url("../font/Btitr.woff")
 }
 @keyframes example{
 0% {
@@ -51,7 +51,7 @@
 }
 }
 body {
-   font-family: 'BYekan';
+   font-family: 'Btitr';
 }
 /*------login---------*/
 #bodyy {
